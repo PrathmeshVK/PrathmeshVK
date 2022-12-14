@@ -19,9 +19,8 @@
 
 <h3 align="left">Connect with me: prathmeshkatware@gmail.com</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prathmesh katware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmesh katware" height="30" width="40" /></a>
-<a href="https://codesandbox.com/prathmesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prathmesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@prathmeshkatware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prathmeshkatware" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prathmesh-katware-89a5bb229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmesh katware" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prathmeshkatware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prathmeshkatware" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
