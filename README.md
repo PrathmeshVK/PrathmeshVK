@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/177pwTKgpRLp_j8gF9eYfb6vLArjrXxG_/view?usp=sharing)
 
-<h4 align="left">Connect with me</h4>
+<h3 align="left">Connect with me</h3>
 
  <a href="https://www.linkedin.com/in/prathmesh-katware-89a5bb229/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
