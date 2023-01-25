@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prathmeshkatware@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g5MEu_Utzi6W85FY2qP7D5raOGsLDpqY/view?usp=sharing](https://drive.google.com/file/d/1g5MEu_Utzi6W85FY2qP7D5raOGsLDpqY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1g5MEu_Utzi6W85FY2qP7D5raOGsLDpqY/view?usp=sharing](https://drive.google.com/file/d/1g5MEu_Utzi6W85FY2qP7D5raOGsLDpqY/view?usp=)
 
 <h3 align="left">Connect with me: prathmeshkatware@gmail.com</h3>
 <p align="left">
